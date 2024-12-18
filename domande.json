@@ -1,0 +1,125 @@
+{
+  "test": [
+    {
+      "QuestionID": 1,
+      "testo": "Describe the water cycle in your own words.",
+      "tipo": "domanda_aperta"
+    },
+    {
+      "QuestionID": 2,
+      "testo": "Explain the importance of photosynthesis.",
+      "tipo": "domanda_aperta"
+    },
+    {
+      "QuestionID": 3,
+      "testo": "What are the main differences between prokaryotic and eukaryotic cells?",
+      "tipo": "domanda_aperta"
+    },
+    {
+      "QuestionID": 4,
+      "tipo": "crocetta",
+      "titolo_domanda": "Color Theory",
+      "paragrafo_domanda": "This question is about color theory. It asks you to identify primary, secondary, and complementary colors, which are essential concepts in visual arts and design.",
+      "sottodomande": [
+        {
+          "testo_1": "Which of the following is a primary color?",
+          "risposte_possibili_1": [
+            "Green",
+            "Red",
+            "Purple",
+            "Orange"
+          ]
+        },
+        {
+          "testo_2": "What is the complementary color of red?",
+          "risposte_possibili_2": [
+            "Green",
+            "Yellow",
+            "Blue",
+            "Orange"
+          ]
+        },
+        {
+          "testo_3": "Which color is commonly associated with calm and tranquility?",
+          "risposte_possibili_3": [
+            "Blue",
+            "Red",
+            "Yellow",
+            "Black"
+          ]
+        },
+        {
+          "testo_4": "Which of the following is a secondary color?",
+          "risposte_possibili_4": [
+            "Purple",
+            "Red",
+            "Green",
+            "Yellow"
+          ]
+        },
+        {
+          "testo_5": "What is the opposite of black on the color wheel?",
+          "risposte_possibili_5": [
+            "White",
+            "Blue",
+            "Red",
+            "Green"
+          ]
+        }
+      ]
+    },
+    {
+      "QuestionID": 5,
+      "tipo": "crocetta",
+      "titolo_domanda": "Planets of the Solar System",
+      "paragrafo_domanda": "This question is related to astronomy. It covers basic knowledge about planets in the Solar System, including their features and characteristics.",
+      "sottodomande": [
+        {
+          "testo_1": "Which planet is known as the Red Planet?",
+          "risposte_possibili_1": [
+            "Earth",
+            "Venus",
+            "Mars",
+            "Jupiter"
+          ]
+        },
+        {
+          "testo_2": "Which planet is closest to the Sun?",
+          "risposte_possibili_2": [
+            "Mercury",
+            "Mars",
+            "Venus",
+            "Earth"
+          ]
+        },
+        {
+          "testo_3": "Which planet is the largest in the Solar System?",
+          "risposte_possibili_3": [
+            "Saturn",
+            "Jupiter",
+            "Neptune",
+            "Earth"
+          ]
+        },
+        {
+          "testo_4": "Which planet has the most moons?",
+          "risposte_possibili_4": [
+            "Jupiter",
+            "Saturn",
+            "Mars",
+            "Venus"
+          ]
+        },
+        {
+          "testo_5": "Which planet has a day longer than its year?",
+          "risposte_possibili_5": [
+            "Venus",
+            "Mars",
+            "Mercury",
+            "Earth"
+          ]
+        }
+      ]
+    }
+  ]
+}
